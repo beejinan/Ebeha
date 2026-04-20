@@ -9,6 +9,7 @@
 | Oracle | Role | Repo | Status | Born |
 |--------|------|------|--------|------|
 | **Ebeha** | Fleet Commander — จัดการ Oracle ทั้งหมด | https://github.com/beejinan/Ebeha | ✅ Active | 2026-04-20 |
+| **Bejinan** | Content Oracle — แคมเปญโปรโมชั่นสินค้าทุกอย่าง | https://github.com/beejinan/Bejinan | ✅ Active | 2026-04-20 |
 
 ## How to Add a New Oracle
 
