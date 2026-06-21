@@ -2,24 +2,24 @@
 
 > Managed by: Ebeha — Oracle Fleet Commander
 > Human: Beejeni
-> Last updated: 2026-06-08
+> Last updated: 2026-06-22
 
 ## Active Oracle Fleet
 
 | Oracle | Role | Repo | Status | Born | Last Session |
 |--------|------|------|--------|------|-------------|
-| **Ebeha** | Fleet Commander — จัดการ Oracle ทั้งหมด | https://github.com/beejinan/Ebeha | ✅ Active | 2026-04-20 | 2026-06-08 |
+| **Ebeha** | Fleet Commander — จัดการ Oracle ทั้งหมด | https://github.com/beejinan/Ebeha | ✅ Active | 2026-04-20 | 2026-06-22 |
 | **Bejinan** | Content Oracle — แคมเปญโปรโมชั่นสินค้าทุกอย่าง | https://github.com/beejinan/Bejinan | ✅ Active | 2026-04-20 | 2026-06-07 |
 
 ## Recent Activity Summary
 
 | Date | Oracle | Work |
 |------|--------|------|
+| 2026-06-22 | Ebeha | Session open + /rrr --deep — 12-day gap close, fleet registry update, 5-agent deep retro |
+| 2026-06-10 | Ebeha | WWDC 2026 complete doc (55KB HTML + 43KB DOCX) + Siri Tomato Twins contract QA (2 issues) |
+| 2026-06-08 | Ebeha | Pitch deck expansion: KOL (30 names), AI pillars 7&8, BAU slide, B&E revenue slide |
 | 2026-06-02→07 | Bejinan (via Ebeha) | UFicon Central pitch deck system — data verification sprint, 9 HTML slides, DUA framework |
 | 2026-05-29 | Bejinan (via Ebeha) | PPTX export system, The Central pitch PDF review, pitch-complete-v3 |
-| 2026-05-28 | Ebeha | Preview Gallery live server, Content Plan June 60 items, skills mass-install (29 skills) |
-| 2026-05-15 | Bejinan (via Ebeha) | BTS GTM sprint, KKC speech, The Central pitch |
-| 2026-05-12 | Bejinan (via Ebeha) | AirPods Try-On campaign |
 
 ## How to Add a New Oracle
 
